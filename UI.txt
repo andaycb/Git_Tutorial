@@ -1,0 +1,4 @@
+Làm UI của dự án
+
+Đây là một dự án Game NFT, tuy nhiên UI vẫn sẽ gần tương tự như một game truyền thống.
+
